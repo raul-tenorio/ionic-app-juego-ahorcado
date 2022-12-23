@@ -6,8 +6,8 @@
 En el momento que seleccionamos una letra del desplegable y pulsamos sobre el botón seleccionar letra, estamos llamando al método compruebaLetra() y es aquí donde realizamos las siguientes comprobaciones:
 
 Seleccionar letra:
-  1. Comprobar que se haya seleccionado una letra.
-  2. Comprobar si la letra está en la palabra secreta:
+  - Comprobar que se haya seleccionado una letra.
+  - Comprobar si la letra está en la palabra secreta:
     - SI: 
       - Recorremos la palabra secreta y reemplazamos los huecos por la letra seleccionada tantas veces como corresponda. 
       - Sumamos puntos. 
@@ -23,7 +23,7 @@ Seleccionar letra:
         - NO: Fin del juego. 
       - Lanzamos mensaje toast de error.
       - Cambiamos imagen añadiendo un palito al muñeco del ahorcado.
-  3. Resolver directamente:
+  - Resolver directamente:
     - Solución directa:
       - SI: Sumamos más puntos que en la solución indirecta.
       - NO: Restamos puntos y seguimos jugando.
