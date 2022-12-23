@@ -3,7 +3,7 @@
 ![imagen](https://user-images.githubusercontent.com/74626123/209367230-4f8500f0-b851-46ba-8c07-54486a82f23a.jpg)
 
 ## Lógica del juego
-En el momento que seleccionamos una letra del desplegable y pulsamos sobre el botón seleccionar letra, estamos llamando al método compruebaLetra() y es aquí donde realizamos las siguientes comprobaciones:
+En el momento que seleccionamos una letra del desplegable y pulsamos sobre el botón seleccionar letra, estamos llamando al método compruebaLetra() y es aquí donde realizamos las siguientes comprobaciones: </br>
 
 • Seleccionar letra:
   • Comprobar que se haya seleccionado una letra.
